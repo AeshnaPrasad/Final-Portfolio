@@ -39,7 +39,8 @@ Interestingly enough, when this analysis was first undertaken to prove that Chic
 
 ### The Chicago Enterprize Zones Program
 
-[![](thumbnails/Chicago.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/chicago.pdf){target="_blank"}
+[![](thumbnails/Chicago.PNG)]
+https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/chicago.pdf){target="_blank"}
 
 This map demonstrates the following skills: 
 
