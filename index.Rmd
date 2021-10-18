@@ -39,8 +39,7 @@ Interestingly enough, when this analysis was first undertaken to prove that Chic
 
 ### The Chicago Enterprize Zones Program
 
-[![](thumbnails/Chicago.PNG)]
-https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/chicago.pdf){target="_blank"}
+[![](thumbnails/Chicago.PNG)]https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/chicago.pdf){target="_blank"}
 
 This map demonstrates the following skills: 
 
@@ -56,7 +55,7 @@ The most interesting insights to me were that Venice has added a lot of land mas
 
 ### Sea-Level Rise is Real!
 
-[![](thumbnails/Venice.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/venice.pdf){target="_blank"}
+[![](thumbnails/Venice.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/venice.pdf){target="_blank"}
 
 This map demonstrates the following skills:
 
@@ -75,33 +74,33 @@ The analysis also recognizes the difference between parks and urban trees as an 
 
 The first map displayed below is a visualization of all data used in the analysis of SF as discussed above.
 
-[![](thumbnails/SF1.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF1.pdf){target="_blank"}
+[![](thumbnails/SF1.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/SF1.pdf){target="_blank"}
 
 Through spatial analysis I created the following 6 maps and gleaned insights such as:
 
 ###### 1) Average number of urban trees  in each SF Neighborhood = 1644.744
 
-[![](thumbnails/SF2.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF2.pdf){target="_blank"}
+[![](thumbnails/SF2.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/SF2.pdf){target="_blank"}
 
 ###### 2) Average density of Urban Trees in each SF Neighborhood = 2002.691 / sq.km
 
-[![](thumbnails/SF3.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF3.pdf){target="_blank"}
+[![](thumbnails/SF3.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/SF3.pdf){target="_blank"}
 
 ###### 3) Average number of Bike Stations in each SF Neighborhood = 1.401.
 
-[![](thumbnails/SF4.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF4.pdf){target="_blank"}
+[![](thumbnails/SF4.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/SF4.pdf){target="_blank"}
 
 ###### 4) Average density of Bike Station in each SF Neighborhood = 2.14 / sq.km
 
-[![](thumbnails/SF5.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF5.pdf){target="_blank"}
+[![](thumbnails/SF5.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/SF5.pdf){target="_blank"}
 
 ###### 5) Number & proportion of Neighborhoods that have Parks in them = 45 of 117 = 38.46%
 
-[![](thumbnails/SF6.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF6.pdf){target="_blank"}
+[![](thumbnails/SF6.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/SF6.pdf){target="_blank"}
 
 ###### 6) Number & proportion of Urban Trees within 100m of Bike Stations = 4658 of 50000 = 2%
 
-[![](thumbnails/SF7.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF7.pdf){target="_blank"}
+[![](thumbnails/SF7.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/SF7.pdf){target="_blank"}
 
 
 These maps demonstrate the following skills:
@@ -123,42 +122,42 @@ In order to answer this question I first mapped the location of kindergartens an
 
 ###### Kindergartens
 
-[![](thumbnails/D3.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D3.pdf){target="_blank"}
+[![](thumbnails/D3.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D3.pdf){target="_blank"}
 
-[![](thumbnails/D4.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D4.pdf){target="_blank"}
+[![](thumbnails/D4.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D4.pdf){target="_blank"}
 
 ###### Schools
 
-[![](thumbnails/D7.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D7.pdf){target="_blank"}
+[![](thumbnails/D7.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D7.pdf){target="_blank"}
 
-[![](thumbnails/D8.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D8.pdf){target="_blank"}
+[![](thumbnails/D8.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D8.pdf){target="_blank"}
 
 Plotted above is the location of the education institutes under our analysis located within the city limits. At first look, schools seem equitably distributed throughout the city’s gridded street infrastructure and neighborhoods but the kindergartens seem very sparsely distributed to the outskirts.
 I also created iso-chrome maps to understand the walk times to kindergartens from different neighborhoods and bicycle times to schools similarly.
 
 Following this, I focused in only accessibility and transit times for schools alone. Below is the location and number of schools as distributed across the city of Detroit.
 
-[![](thumbnails/D9.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D9.pdf){target="_blank"}
+[![](thumbnails/D9.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D9.pdf){target="_blank"}
 
 To decode accessibility of schools by bicycles I created two maps - one which looks at number of schools that can be accessed within a 20 minute bike ride and the other which provides an accessibility score to various places based on this.
 
-[![](thumbnails/D10.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D10.pdf){target="_blank"}
+[![](thumbnails/D10.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D10.pdf){target="_blank"}
 
-[![](thumbnails/D11.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D11.pdf){target="_blank"}
+[![](thumbnails/D11.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D11.pdf){target="_blank"}
 
 ###### Raster Maps showing bike accesibility to schools
 
 All the maps below show similar information as seen in the vector maps above but the exercise allowed me to see the different ways in which the same data can be displayed and conveyed which was creatively very satisfying.
 
-[![](thumbnails/D11A.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D11A.pdf){target="_blank"}
+[![](thumbnails/D11A.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D11A.pdf){target="_blank"}
 
-[![](thumbnails/D12.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D12.pdf){target="_blank"}
+[![](thumbnails/D12.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D12.pdf){target="_blank"}
 
-[![](thumbnails/D13.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D13.pdf){target="_blank"}
+[![](thumbnails/D13.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D13.pdf){target="_blank"}
 
-[![](thumbnails/D14.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D14.pdf){target="_blank"}
+[![](thumbnails/D14.PNG)](https://AeshnaPrasad.github.io/github.com/AeshnaPrasad/Final-Portfolio/fullsize/D14.pdf){target="_blank"}
 
-[![](thumbnails/D15.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D15.pdf){target="_blank"}
+[![](thumbnails/D15.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/D15.pdf){target="_blank"}
 
 
 These maps demonstrate the following skills:
@@ -181,7 +180,7 @@ Thus, this map looks to understand what percentage of residents in the Five Boro
 
 ### New York: A City of "Outsiders"?
 
-[![](thumbnails/NYC.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/NYC.html){target="_blank"}
+[![](thumbnails/NYC.PNG)](https://AeshnaPrasad.github.io/Final-Portfolio/fullsize/NYC.html){target="_blank"}
 
 This map demonstrate the following skills:
 * Displaying data on an interactive map
