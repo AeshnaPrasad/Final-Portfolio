@@ -15,13 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-This is an example of a portfolio that someone might assemble to demonstrate the skills they have developed in VIS 2128. I have created this page using RMarkdown. There are fancier tools out there for creating and hosting webpages, and you are welcome to use any of those if you like. The advantage of this approach is that you can create your webpage directly from RStudio.
+Spatial Analysis was a course that explored the many ways in which data can be selected, understood and represented visually on maps in order to understand cities, spaces and places better. Through the course of this half-semester module, my aim has been to explore diverse cities through numerous lenses in order to understand variety of datasets (both types of data and different types of content), and work to exercise all possible coding muscles, even when working in groups. The ability R has to create both visually stunning and accurate maps is of importance to me and is a skill I hope to use as an urban designer, planner and researcher in the future. 
 
-This example uses the `journal` theme, which is available by default.
-
-There are 12 themes available by default: `cerulean`, `cosmo`, `flatly`, `journal`, `lumen`, `paper`, `readable`, `sandstone`, `simplex`, `spacelab`, `united`, and `yeti`.
-
-Your portfolio should demonstrate each of the following skills (not all of which are demonstrated in this example):
+This portfolio shows explorations of 5 different cities in order to demonstrate the following skills (in various permutations and combinations):
 
 * Displaying multiple vector layers on the same map
 * Calculating and displaying relationships among point and polygon layers based on distance
@@ -82,27 +78,27 @@ The first map displayed below is a visualization of all data used in the analysi
 
 Through spatial analysis I created the following 6 maps and gleaned insights such as:
 
-##### 1) Average number of urban trees  in each SF Neighborhood = 1644.744
+###### 1) Average number of urban trees  in each SF Neighborhood = 1644.744
 
 [![](thumbnails/SF2.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF2.pdf){target="_blank"}
 
-##### 2) Average density of Urban Trees in each SF Neighborhood = 2002.691 / sq.km
+###### 2) Average density of Urban Trees in each SF Neighborhood = 2002.691 / sq.km
 
 [![](thumbnails/SF3.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF3.pdf){target="_blank"}
 
-##### 3) Average number of Bike Stations in each SF Neighborhood = 1.401.
+###### 3) Average number of Bike Stations in each SF Neighborhood = 1.401.
 
 [![](thumbnails/SF4.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF4.pdf){target="_blank"}
 
-##### 4) Average density of Bike Station in each SF Neighborhood = 2.14 / sq.km
+###### 4) Average density of Bike Station in each SF Neighborhood = 2.14 / sq.km
 
 [![](thumbnails/SF5.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF5.pdf){target="_blank"}
 
-##### 5) Number & proportion of Neighborhoods that have Parks in them = 45 of 117 = 38.46%
+###### 5) Number & proportion of Neighborhoods that have Parks in them = 45 of 117 = 38.46%
 
 [![](thumbnails/SF6.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF6.pdf){target="_blank"}
 
-##### 6) Number & proportion of Urban Trees within 100m of Bike Stations = 4658 of 50000 = 2%
+###### 6) Number & proportion of Urban Trees within 100m of Bike Stations = 4658 of 50000 = 2%
 
 [![](thumbnails/SF7.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/SF7.pdf){target="_blank"}
 
@@ -124,13 +120,13 @@ The legacy of Detroit as a rust-belt city and the many woes that followed after 
 ### Can I Bike to Learn in Detroit?
 In order to answer this question I first mapped the location of kindergartens and schools in the city as seen in the 2 maps below.
 
-##### Kindergartens
+###### Kindergartens
 
 [![](thumbnails/D3.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D3.pdf){target="_blank"}
 
 [![](thumbnails/D4.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D4.pdf){target="_blank"}
 
-##### Schools
+###### Schools
 
 [![](thumbnails/D7.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D7.pdf){target="_blank"}
 
@@ -149,7 +145,7 @@ To decode accessibility of schools by bicycles I created two maps - one which lo
 
 [![](thumbnails/D11.PNG)](https://github.com/AeshnaPrasad/Final-Portfolio/fullsize/D11.pdf){target="_blank"}
 
-##### Raster Maps showing bike accesibility to schools
+###### Raster Maps showing bike accesibility to schools
 
 All the maps below show similar information as seen in the vector maps above but the exercise allowed me to see the different ways in which the same data can be displayed and conveyed which was creatively very satisfying.
 
